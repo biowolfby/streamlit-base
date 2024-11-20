@@ -13,7 +13,7 @@ The demo can be accessed via Streamlit Community Cloud [here](https://share.stre
 
 ```
 pip install streamlit
-streamlit hello
+streamlit run hello.py
 ```
 
 ## Learn more 
